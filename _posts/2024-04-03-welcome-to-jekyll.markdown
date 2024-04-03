@@ -32,7 +32,7 @@ The area around the police stations will be divided into rings. These will serve
 
 A function is created to iterate through the stations and search crime which is within the 500m boundary and sorted accordingly. Additionally, data is generated and stored to be used in both a Folium map and a Bokeh plot further in the analysis.
 
-![plots] (/assets/images/plot.png)
+![plots](plot.png)
 
 ## Folium map after additional filters
 
