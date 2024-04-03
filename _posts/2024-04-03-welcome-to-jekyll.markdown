@@ -34,15 +34,9 @@ A function is created to iterate through the stations and search crime which is 
 
 ![image of plots1](/plot.png)
 
-![image of plots1](/assets/plot.png)
+## Image of Folium map after additional filters (for interactive map see python file)
 
-![image of plots2](/images/plot.png)
-
-![image of plots3](/assets/images/plot.png)
-
-![image of plots4](https://github.com/nielssteen/nielssteen.github.io/blob/master/assets/images/plot.png)
-
-## Folium map after additional filters
+![image of plots1](/map.png)
 
 
 ## Comment
