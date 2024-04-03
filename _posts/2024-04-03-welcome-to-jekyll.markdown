@@ -32,19 +32,9 @@ The area around the police stations will be divided into rings. These will serve
 
 A function is created to iterate through the stations and search crime which is within the 500m boundary and sorted accordingly. Additionally, data is generated and stored to be used in both a Folium map and a Bokeh plot further in the analysis.
 
-![plots](https://github.com/nielssteen/nielssteen.github.io.git/assets/images/plot.png)
+![image of plots](assets/images/plot.png)
 
-![plots](assets/images/plot.png)
-
-<html>
-<head>
-
-    <img src="https://github.com/nielssteen/nielssteen.github.io.git/assets/images/plot.png" alt="plot" />
-
-    <img src="assets/images/plot.png" alt="plot" />
-  </body>
-</html>
-
+![image of plots](https://github.com/nielssteen/nielssteen.github.io/blob/master/assets/images/plot.png)
 
 ## Folium map after additional filters
 
