@@ -36,9 +36,15 @@ A function is created to iterate through the stations and search crime which is 
 
 ![plots](assets/images/plot.png)
 
-<img src="https://github.com/nielssteen/nielssteen.github.io.git/assets/images/plot.png" alt="plot" />
+<html>
+<head>
 
-<img src="assets/images/plot.png" alt="plot" />
+    <img src="https://github.com/nielssteen/nielssteen.github.io.git/assets/images/plot.png" alt="plot" />
+
+    <img src="assets/images/plot.png" alt="plot" />
+  </body>
+</html>
+
 
 ## Folium map after additional filters
 
