@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 # How do police stations affect crimerates in the surrounding area?
 
+![heading image](/forside.png)
+
 ## Introduction
 
 Crime occurs throughout all of San Francisco, with some areas being more exposed to crime than others. The question is, does the presence of police stations have an effect on the rates of crime in the surrounding neighborhood and area?
