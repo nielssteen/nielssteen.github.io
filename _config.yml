@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: D&N SF Analysis
-email: D&N@insights.com
+title: D and N SF news
+email: BigNews@news.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Covering the impact of the placement of police districts the two 
-investigating journalists Ditlev Falkow Bruun and Niels Christian Steen 
-cover the locations of crime in relation to the police station.
+  Ditlev and Niels are two investigative journalist diving into the San
+  Fransico Police Department to explore to role of the location of the police
+  stations around the lovely city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: D&N_SF_Analysis
-github_username:  nielssteen
+twitter_username: DnN news
+github_username:  DnN news
 
 # Build settings
 theme: minima
